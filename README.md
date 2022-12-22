@@ -1,6 +1,6 @@
 # Password_Wallet V-0.1
 
-Hi I am Akash Biswas (INDIA)
+Hi I am Akash Biswas 
 Password-wallet is my personal projects that I love too share publically. 
 This peace of software or script i made for linux Desktop's 
 I am loving Linux main line distro and linux User those who are passionate about it.
