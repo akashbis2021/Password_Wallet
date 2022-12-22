@@ -4,24 +4,20 @@
 Type=Application
 
 # The version of the desktop entry specification to which this file complies
-Version=1.0
+Version=0.1
 
 # The name of the application
 Name=Passwallet
 
-# A comment which can/will be used as a tooltip
-#Comment=Flash card based learning tool
-
 # The path to the folder in which the executable is run
-#Path=/mnt/hdd/nextcloud/tabcloud/programming/python/projects/
+#Path= <FILE PATH WHERE YOU PASSWORDWALLET DIR >
 
 # The executable of the application, possibly with arguments.
-Exec=/mnt/hdd/nextcloud/tabcloud/programming/python/projects/passwordwallet.py
+Exec= <FILE PATH WHERE YOU PASSWORDWALLET DIR > passwordwallet.py
 
 # The name of the icon that will be used to display this entry
-Icon=/mnt/hdd/nextcloud/tabcloud/programming/python/projects/pass-walletlogo.png
+Icon= <FILE PATH WHERE YOU PASSWORDWALLET DIR> pass-walletlogo.png
+
 # Describes whether this application needs to be run in a terminal or not
 #Terminal=false
 
-# Describes the categories in which this entry should be shown
-#Categories=Education;Languages;Java;
