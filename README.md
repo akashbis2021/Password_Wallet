@@ -9,7 +9,7 @@ THANKS TOO ALL WHO TRY MY PROJECT.
 LETS START, TO KNOW ABOUT MY PROJECT PASSWORD-WALLET(V.01)
 ==========================================================
 1.This peace of script build in python3
-  For GUI Tkinter used 
+  GUI Tkinter MODULE used 
   
   //IMPORTING//
   =============
