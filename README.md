@@ -45,7 +45,31 @@ LETS START, TO KNOW ABOUT MY PROJECT PASSWORD-WALLET(V.01)
   PROCEDURE:-
   ===========
   1.pass-wallet.desktop COPY TO /home/username/.local/share/applications DIRECTORY
-       
+  
+  .desktop CONTENTS/EXPLAIN:-
+  ===========================
+  # The type as listed above
+     Type=Application
+ 
+  # The version of the desktop entry specification to which this file complies
+  Version=0.1
+ 
+  # The name of the application
+  Name=Passwallet
+
+  # The path to the folder in which the executable is run
+  #Path=<FILE PATH WHERE YOU PASSWORDWALLET DIR >     <<   THIS LINE IS ALL LOG FILES STORE IN THE GIVEN PATH
+
+  # The executable of the application, possibly with arguments.
+  Exec= < ENTER PATH WHERE YOU PASSWORDWALLET DIR >/passwordwallet.py  << THIS LINE IS THE MAIN SCRIPT   
+
+  # The name of the icon that will be used to display this entry
+  Icon= <ENTER PATH WHERE YOU PASSWORDWALLET DIR >/pass-walletlogo.png  << THIS LINE SHOWS ICON ON THE DESKTOP  
+ 
+  # Describes whether this application needs to be run in a terminal or not
+  #Terminal=false
+
+   
   
    
   
